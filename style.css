@@ -11,6 +11,10 @@ ul {
     list-style: none;
 }
 
+.container {
+    display: flex;
+}
+
 .lateral-menu {
     background: #000;
     color: #fff;
@@ -46,4 +50,69 @@ ul {
 
 .settings svg {
     margin-right: 10px;
+}
+
+.content {
+    background-color: #F5F6FA;
+    width: 100%;
+}
+
+.card {
+    background: #fff;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    margin: 0 20px;
+    height: 132px;
+}
+
+.card-small {
+    width: 240px;
+    display: flex;
+    align-items: center;
+}
+
+.card-large {
+    width: 464px;
+}
+
+.card .card-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50%;
+    width: 100%;
+}
+
+.card .card-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+
+.cards-header {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.card-info h2 {
+    font-size: 54px;
+    font-weight: bold;
+    color: #FFBA33;
+}
+
+.card-info p {
+    font-size: 16px;
+}
+
+.card-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-large .card-container .card-content:first-child {
+    border-right: 1px solid #111;
+
 }
