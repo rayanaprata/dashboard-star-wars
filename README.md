@@ -4,7 +4,7 @@ Dashboard Star Wars feito com ajuda dos vídeos do canal Papo de Dev, oferecidos
 
 ✨ [Clique aqui para acessar o projeto.](https://rayanaprata.github.io/dashboard-star-wars/)
 
-![About Me](assets/dashboard-star-wars.png)
+![Projeto Star Wars](assets/dashboard-star-wars.png)
 
 ## Technologies used 💻
 
