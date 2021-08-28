@@ -2,7 +2,7 @@
 
 Dashboard Star Wars feito com ajuda dos vídeos do canal Papo de Dev, oferecidos pela Isadora Stangarlin no Youtube.
 
-✨ [Clique aqui para acessar o projeto.]()
+✨ [Clique aqui para acessar o projeto.](https://rayanaprata.github.io/dashboard-star-wars/)
 
 ![About Me](assets/dashboard-star-wars.png)
 
