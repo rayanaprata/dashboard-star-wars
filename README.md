@@ -12,3 +12,4 @@ Dashboard Star Wars feito com ajuda dos vídeos do canal Papo de Dev, oferecidos
 - [Axios](https://github.com/axios/axios)
 - [SWAPI - The Star Wars API](https://swapi.dev/)
 - [Moment.js](https://momentjs.com/)
+- [Google Charts](https://developers.google.com/chart)
